@@ -1,0 +1,2 @@
+# Kurzwellenempf-nger
+Schaltplan erstellen
